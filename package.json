@@ -1,0 +1,16 @@
+{
+  "name": "nodejs",
+  "main": "index.js",
+  "author": "eooce",
+  "private": false,
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "latest",
+    "express": "^4.18.2"
+  },
+  "engines": {
+    "node": ">=14"
+  }
+}
